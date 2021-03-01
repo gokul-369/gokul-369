@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-369&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-369" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://gokul-369.github.io/Portfolio/signup.html)
+- 🔭 I’m currently working on [Mini Project](https://gokul-369.github.io/Portfolio/signup.html)
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://gokul-369.github.io/Portfolio/signup.html](https://gokul-369.github.io/Portfolio/signup.html)
+- 👨‍💻 All of my projects are available at [Portfolio](https://gokul-369.github.io/Portfolio/signup.html)
 
 - 📫 How to reach me **gokul369@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11JeLi4wIdF5FshY054r01spoUkcgEfKp/view](https://drive.google.com/file/d/11JeLi4wIdF5FshY054r01spoUkcgEfKp/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11JeLi4wIdF5FshY054r01spoUkcgEfKp/view)
 
 - ⚡ Fun fact **I am Batman**
 
