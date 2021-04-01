@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-369&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-369" /> </p>
 
-- 🔭 I’m currently working on [Final Year Project](https://gokul-369.github.io/Seekthegeeks/login.html)
+- 🔭 I’m currently working on [Final Year Project](https://gokul-369.github.io/Seekthegeeks/pu/login.html)
 
 - 🌱 I’m currently learning **Javascript**
 
