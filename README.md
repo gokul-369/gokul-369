@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://gokul-369.github.io/Portfolio/signup.html)
+- 👨‍💻 All of my projects are available at [ My Github](https://github.com/gokul-369)
 
 - 📫 How to reach me **gokul369@outlook.com**
 
