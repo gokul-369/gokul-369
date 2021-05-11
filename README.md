@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Final Year Project](https://github.com/gokul-369/Seekthegeeks)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [ My Github](https://github.com/gokul-369)
 
