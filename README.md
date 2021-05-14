@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gokul369@outlook.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11JeLi4wIdF5FshY054r01spoUkcgEfKp/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1T30MLBK0KwiudonpR-FOcqJbIafcFBAO/view?usp=sharing)
 
 - ⚡ Fun fact **I am Batman**
 
