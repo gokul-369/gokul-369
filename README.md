@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 🤝 I’m looking for help with **Reaact** 
+- 🤝 I’m looking for help with **React** 
 
 - 👨‍💻 All of my projects are available at [ My Github](https://github.com/gokul-369)
 
