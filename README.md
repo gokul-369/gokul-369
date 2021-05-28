@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-369&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-369" /> </p>
 
-- 🔭 I’m currently working on [Final Year Project](https://github.com/gokul-369/Seekthegeeks)
+- 🔭 I’m currently working on [A Bakery Website](https://github.com/gokul-369/Baker-s-cafe)
 
 - 🌱 I’m currently learning **React JS**
+
+- 👯 I’m looking to collaborate on **anything**
+
+- 🤝 I’m looking for help with **Reaact** 
 
 - 👨‍💻 All of my projects are available at [ My Github](https://github.com/gokul-369)
 
