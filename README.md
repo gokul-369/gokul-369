@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/gokul-369/Portfolio)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 🤝 I’m looking for help with **React** 
+- 🤝 I’m looking for help with **C#** 
 
 - 👨‍💻 All of my projects are available at [ My Github](https://github.com/gokul-369)
 
