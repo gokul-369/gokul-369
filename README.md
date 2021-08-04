@@ -34,6 +34,6 @@
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-369&" alt="gokul-369" /></p>
  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gokul_369)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gokul_369&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 
