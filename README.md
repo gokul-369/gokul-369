@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋, I'm Gokul</h1>
-<h3 align="center">I can convert Coffee to code</h3>
+<h3 align="center">I can convert coffee to code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-369&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-369" /> </p>
 
