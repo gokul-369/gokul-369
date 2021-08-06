@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **gokul369@outlook.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1T30MLBK0KwiudonpR-FOcqJbIafcFBAO/view?usp=sharing)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/gokul-rao-40773a1b6/)
 
 - ⚡ A secret about me **I am good at keeping secrets**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gokul rao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gokul rao" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gokul-rao-40773a1b6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gokul rao" height="30" width="40" /></a>
 <a href="https://instagram.com/gokul__369" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gokul__369" height="30" width="40" /></a>
 </p>
 
