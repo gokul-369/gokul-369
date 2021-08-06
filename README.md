@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1T30MLBK0KwiudonpR-FOcqJbIafcFBAO/view?usp=sharing)
 
-- ⚡ Fun fact **I am Batman**
+- ⚡ A secret about me **I am good at keeping secrets**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
