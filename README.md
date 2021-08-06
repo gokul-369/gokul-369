@@ -31,9 +31,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul-369&langs_count=8&show_icons=true&locale=en&layout=compact" alt="gokul-369" /></p>
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-369&" alt="gokul-369" /></p>
  
-[![Gokul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gokul_369&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Gokul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gokul_369&v=2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
