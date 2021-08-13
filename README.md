@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-369&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-369" /> </p>
 
-- 🔭 I’m currently working on [This Project](https://gokul-369.github.io/Blood-Donor-Portal)
+- 🔭 I’m currently working on [This Project](https://github.com/gokul-369/Blood-Donor-Portal)
 
 - 🌱 I’m currently learning **C#**
 
