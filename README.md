@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [This Project](https://github.com/gokul-369/Blood-Donor-Portal)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **Anything**
 
-- 🤝 I’m looking for help with **C#**
+- 🤝 I’m looking for help with **React JS**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/gokul-369)
 
