@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋, I'm Gokul</h1>
 <h3 align="center">☕ I convert coffee and tea into code 💻</h3>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="340" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="330" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-369&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-369" /> </p>
 
