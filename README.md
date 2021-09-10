@@ -19,7 +19,7 @@
 
 - ⚡ A secret about me **I am very good at keeping secrets**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gokul rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokul rao" height="30" width="40" /></a>
 <a href="https://instagram.com/gokul__369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gokul__369" height="30" width="40" /></a>
