@@ -39,7 +39,7 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
  
- | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&text_color=003140&icon_color=003140&title_color=00b3df&count_private=true&hide_border=true&include_all_commits=true" /></a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-369&layout=compact&hide_border=true" /></a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gokul_369&v=2&layout=compact&hide_border=true" /></a> |
+ | <a> <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&text_color=003140&icon_color=003140&title_color=00b3df&count_private=true&hide_border=true&include_all_commits=true" /></a> | <a> <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-369&layout=compact&hide_border=true" /></a> | <a> <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gokul_369&v=2&layout=compact&hide_border=true" /></a> |
 | --------- | --------- | --------- |
  
  
