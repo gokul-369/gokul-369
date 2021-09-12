@@ -15,8 +15,6 @@
 
 - 🤝 I’m looking for help with **React JS**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/gokul-369)
-
 - 📫 How to reach me **gokul369@outlook.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/gokul-rao-40773a1b6/)
