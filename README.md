@@ -6,7 +6,7 @@
  <a href="https://gokul-369.github.io/Portfolio/index.html"><img src="https://img.shields.io/badge/Portfolio-3DDC84?style=for-the-badge&logo=javascript&logoColor=white" /></a>
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="370" height="240" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="340" height="240" />
 
 
  <br><br>
