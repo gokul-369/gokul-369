@@ -6,11 +6,10 @@
  <a href="https://gokul-369.github.io/Portfolio/index.html"><img src="https://img.shields.io/badge/Portfolio-3DDC84?style=for-the-badge&logo=javascript&logoColor=white" /></a>
 </p>
 
-<br><br>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="370" height="240" />
 
 
- 
+ <br><br>
 
 - 🔭 I’m currently working on [This Project](https://github.com/gokul-369/Blood-Donor-Portal)
 
@@ -22,6 +21,7 @@
 
 - ⚡ A secret about me **I am very good at keeping secrets**
 
+<br><br>
 
 <h3 align="left">My Tech Arsenal</h3>
 <p align="center"> 
@@ -31,17 +31,14 @@
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+ <hr>
  
- <img  src="https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-369&hide_border=true&theme=tokyonight" width="45%" >
+ | <img width="100%" src="https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=tokyonight">|<img  src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-369&hide_border=true&theme=tokyonight" width="100%" >|<img  width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gokul_369&v=2&layout=compact&hide_border=true&theme=tokyonight">
+| --------- | --------- | --------- |
 
-
-
- <p  align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-369&theme=tokyonight&hide_border=true&layout=compact" /></p>
-
- 
- 
 
  
 
 
+<!-- <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-369&layout=compact&hide_border=true&theme=tokyonight" > -->
 
