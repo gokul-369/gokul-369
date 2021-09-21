@@ -33,15 +33,15 @@
 </p>
  <hr>
  
- <img  src="https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&hide_border=true&theme=tokyonight" width="50%" align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-369&layout=compact&v=2&hide_border=true&theme=tokyonight&hide=html&langs_count=8 width="30%" align="right">
+<!--  <img  src="https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&hide_border=true&theme=tokyonight" width="50%" align="left">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-369&layout=compact&v=2&hide_border=true&theme=tokyonight&hide=html&langs_count=8 width="30%" align="right"> -->
 
 
 <!--  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gokul_369&layout=compact&v=2&hide_border=true&theme=tokyonight"> -->
 
 
 
-<!-- | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-369&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html" /></a> |
-| ------------- | ------------- | -->
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-369&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html" /></a> |
+| ------------- | ------------- |
 
 
