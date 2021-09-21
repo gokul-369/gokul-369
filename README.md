@@ -33,13 +33,15 @@
 </p>
  <hr>
  
- <img  src="https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&hide_border=true&theme=tokyonight" width="43%" align="left" >
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&hide_border=true&theme=tokyonight" align="left" >
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-369&layout=compact&v=2&hide_border=true&theme=tokyonight&hide=html" align="right" width="42%">
+<!--  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gokul_369&layout=compact&v=2&hide_border=true&theme=tokyonight"> -->
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gokul_369&layout=compact&v=2&hide_border=true&theme=tokyonight">
+
+
+
  
 <!--  | <img width="100%" src="https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=tokyonight">|<img  width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gokul_369&v=2&layout=compact&hide_border=true&theme=tokyonight">
 | --------- | --------- | -->
 
-<!-- |<img  src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-369&hide_border=true&theme=tokyonight" width="100%" >| -->
-<!-- <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-369&layout=compact&hide_border=true&theme=tokyonight" > -->
 
