@@ -34,7 +34,7 @@
  <hr>
  
  <img  src="https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&hide_border=true&theme=tokyonight" width="50%" align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-369&layout=compact&v=2&hide_border=true&theme=tokyonight&hide=html&langs_count=8" align="right">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-369&layout=compact&v=2&hide_border=true&theme=tokyonight&hide=html&langs_count=8 width="50%" align="right">
 
 
 <!--  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gokul_369&layout=compact&v=2&hide_border=true&theme=tokyonight"> -->
