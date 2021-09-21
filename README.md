@@ -36,7 +36,7 @@
  <img  src="https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&hide_border=true&theme=tokyonight" width="50%" align="left">
 <!--  <img width="44%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gokul_369&layout=compact&v=2&hide_border=true&theme=tokyonight"> -->
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-369&layout=compact&v=2&hide_border=true&theme=tokyonight&hide=html&langs_count=8" width="40%" align="right"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-369&layout=compact&v=2&hide_border=true&theme=tokyonight&hide=html&langs_count=8" width="36%" align="right"> 
 
 
 
