@@ -2,6 +2,7 @@
 <h3 align="center">☕ I convert coffee and tea into code 💻</h3>
 <p>      </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gokul-369&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-369" /> </p>
+[![wakatime](https://wakatime.com/badge/user/964f254f-59ed-4887-a0e1-279a777a6d1e.svg)](https://wakatime.com/@964f254f-59ed-4887-a0e1-279a777a6d1e)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gokul-rao-40773a1b6/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gokul rao"/></a>
