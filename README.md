@@ -75,4 +75,4 @@
 
 <p>&nbsp;<img height="42%" width="44%" align="right" src="https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="gokul-369" /></p>
    
-<p><img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gokul_369&layout=compact&v=2&hide_border=true&theme=tokyonight"> </p>
+<p><img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gokul_369&layout=compact&hide_border=true&theme=tokyonight"> </p>
