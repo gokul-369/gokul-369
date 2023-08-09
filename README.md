@@ -16,9 +16,9 @@
 
 - 🔭 I’m currently working on [This Project](https://github.com/gokul-369/Blood-Donor-Portal)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 
-- 🤝 I’m looking for help with **React JS**
+- 🤝 I’m looking for help with **Next JS**
 
 - 📫 How to reach me **gokul369@outlook.com**
 
