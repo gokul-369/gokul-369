@@ -73,5 +73,5 @@
  <hr> 
 <p><img   height="42%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul-369&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="gokul-369" /></p>
 
-<p>&nbsp;<img height="42%" width="44%" align="right" src="https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="gokul-369" /></p>
+<p>&nbsp;<img height="42%" width="44%" align="right" src="https://github-readme-stats.vercel.app/api?username=gokul-369&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="gokul-369" /></p>
    
