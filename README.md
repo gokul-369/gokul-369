@@ -14,7 +14,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working on [This Project](https://github.com/gokul-369/Blood-Donor-Portal)
+- 🔭 I’m currently working on [A private project](https://github.com/gokul-369/site-builder)
 
 - 🌱 I’m currently learning **Next JS**
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **gokul369@outlook.com**
 
-- ⚡ A secret about me **I am very good at keeping secrets**
+- ⚡ A secret about me **I am Batman**
 
 <br><br>
 
