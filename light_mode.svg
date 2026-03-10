@@ -8,15 +8,14 @@ font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
 }
-.key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
-.cc {fill: #616e7f;}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
-.ascii { font-family: monospace; font-size:4px; white-space:pre; }
 </style>
-<rect width="100%" height="100%" fill="#161b22" rx="15"/>
+<rect width="100%" height="100%" fill="#f6f8fa" rx="15"/>
 
 <text x="0" y="20" fill="#c9d1d9" class="ascii">
     <tspan x="0" dy="1.2em">+******                                                                     </tspan>
