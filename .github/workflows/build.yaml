@@ -1,49 +1,43 @@
-name: README build
+name: Update GitHub Stats
 
 on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
-  schedule:
-    - cron: "0 4 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.8"
-
-      - name: Configure pip cache
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/cache/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+          python-version: "3.10"
 
       - name: Install dependencies
-        run: python -m pip install -r cache/requirements.txt
+        run: |
+          pip install requests lxml
 
-      - name: Update README file
+      - name: Run stats updater
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USER_NAME: gokul-369
-        run: python today.py
+        run: python update_stats.py
 
-      - name: Commit
+      - name: Commit changes
         run: |
-          git add .
-          git diff
-          git config --global user.email "gokul369@outlook.com"
           git config --global user.name "gokul-369"
-          git commit -m "Updated README" -a || echo "No changes to commit"
+          git config --global user.email "gokul369@outlook.com"
+
+          git add dark_mode.svg light_mode.svg
+
+          git commit -m "auto update github stats" || echo "No changes"
+
           git push
