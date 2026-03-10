@@ -36,7 +36,7 @@ jobs:
       - name: Update README file
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          USER_NAME: ${{ secrets.USER_NAME }}
+          USER_NAME: gokul-369
         run: python today.py
 
       - name: Commit
