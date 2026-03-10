@@ -560,11 +560,23 @@ def get_contributions():
     return data["user"]["contributionsCollection"]["contributionCalendar"]["totalContributions"]
 
 
-def account_age(created):
-    created = datetime.datetime.fromisoformat(created.replace("Z", ""))
-    diff = datetime.datetime.utcnow() - created
-    years = diff.days // 365
-    return f"{years} years"
+def calculate_age():
+    dob = datetime.datetime(2001, 3, 22)
+    today = datetime.datetime.today()
+
+    years = today.year - dob.year
+    months = today.month - dob.month
+    days = today.day - dob.day
+
+    if days < 0:
+        months -= 1
+        days += 30
+
+    if months < 0:
+        years -= 1
+        months += 12
+
+    return f"{years} years, {months} months, {days} days"
 
 
 def replace_text(root, element_id, value):
@@ -591,7 +603,7 @@ if __name__ == "__main__":
     user = get_user()
 
     stats = {
-        "age": account_age(user["createdAt"]),
+        "age": calculate_age(),
         "repos": user["repositories"]["totalCount"],
         "followers": user["followers"]["totalCount"],
         "stars": get_stars(),
