@@ -29,7 +29,7 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USER_NAME: gokul-369
-        run: python update_stats.py
+        run: python today.py
 
       - name: Commit changes
         run: |
