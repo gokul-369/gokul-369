@@ -427,7 +427,7 @@ if __name__ == '__main__':
 
     # set to your real birthday
     # Example: 2003-05-10
-    age_data, age_time = perf_counter(daily_readme, datetime.datetime(2003, 5, 10))
+    age_data, age_time = perf_counter(daily_readme, datetime.datetime(2001, 3, 22))
     formatter('age calculation', age_time)
 
     # LOC & cache
