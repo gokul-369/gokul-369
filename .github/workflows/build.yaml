@@ -7,6 +7,8 @@ on:
   push:
     branches:
       - main
+  permissions:
+    contents: write
 
 jobs:
   build:
@@ -38,6 +40,6 @@ jobs:
 
           git add dark_mode.svg light_mode.svg
 
-          git commit -m "auto update github stats" || echo "No changes"
+          git commit --author="gokul-369 <gokul369@outlook.com>" -m "auto update github stats" || echo "No changes"
 
           git push
